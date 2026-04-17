@@ -1,2 +1,5 @@
 # Basic-Linear-Regression
-Python implementation of simple linear regression model as well as training algorithms (GD, SGD)
+A basic python implementation of ML which includes
+- Training algorithms
+- Classifiers
+- Evaluating models
